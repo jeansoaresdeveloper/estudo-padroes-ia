@@ -1,0 +1,1 @@
+Repositório para estudos sobre implementação, qualidade e entedimento de padrões de projeto desenvolvidos por IA em Java.
